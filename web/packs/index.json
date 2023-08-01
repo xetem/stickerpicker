@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "xetem.json"
+  ],
+  "homeserver_url": "https://synapse.bark.lgbt"
+}
