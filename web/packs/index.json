@@ -1,6 +1,23 @@
 {
   "packs": [
-    "xetem.json"
+    "xetem.json",
+    "Jax_Tj.json",
+    "QuelvhartheDragon.json",
+    "AriosStickers.json",
+    "BlarghDerg.json",
+    "GlaxContrib.json",
+    "Nihlidh.json",
+    "Dovandwrath.json",
+    "Asure.json",
+    "KusacKavka.json",
+    "TegonSt.json",
+    "MiloNSFW.json",
+    "Spitey.json",
+    "InkhNL.json",
+    "Jayskykiss.json",
+    "Luuuuuuuuuuuuuuuuuu.json",
+    "RamaelFox.json",
+    "FyrienByKapuOfficial.json"
   ],
   "homeserver_url": "https://synapse.bark.lgbt"
 }
